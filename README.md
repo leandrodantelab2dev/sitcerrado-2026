@@ -110,7 +110,7 @@ Dentro do SAP Build Code:
 # ✨ Prompt 01 — Estrutura do CAP
 
 ```txt
-
+/cap-gen-app Gere uma aplicacao para fazer o controle do evento SIT Cerrado, onde eu tenho o controle de palestrantes e sessoes, para uma agenda final do evento
 ```
 
 ---
